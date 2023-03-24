@@ -18,7 +18,7 @@ var highscoresContainer = document.getElementById('highscores');
 
 function populateQuestion(question) {
     var currentQuestion = question.title;
-    var currentChoices = question.choices;
+    var currentChoices = question.choice;
 
     choicesContainer.innerHTML = '';
     questionsTitle.textContent = currentQuestion;
