@@ -19,13 +19,19 @@ var questions = [
 
   {
     title: "In which movie did Spider-Man make his first appearance in the MCU?",
-    choice: ["Captain America: Civil War","SpiderMan: No Way Home","Captain America: Civil War","SpiderMan: Homecoming"],
+    choice: [Avengers: Infinity War: ","SpiderMan: No Way Home","Captain America: Civil War","SpiderMan: Homecoming"],
     answer: "Captain America: Civil War"
   },
 
   {
-    title: "What is the name of the villain in the first Thor movie?",
+    title: "Who destroys Thor's hammer?",
     choice: ["Loki", "Thanos", "Hela", "Ultron"],
     answer: "Hela"
-  }
+  },
+  
+  { title: " Who made special apperance in "Spider Man:HomeComing"?"
+   choice:["Chris Evans", "Antony Mackie", "Robert Downey Jr", "Tom Hardy"],
+   answer: "Robert Downey Jr"
+}
+  
 ]
