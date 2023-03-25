@@ -19,7 +19,7 @@ var questions = [
 
   {
     title: "In which movie did Spider-Man make his first appearance in the MCU?",
-    choice: [Avengers: Infinity War: ","SpiderMan: No Way Home","Captain America: Civil War","SpiderMan: Homecoming"],
+    choice: ["Avengers: Infinity War ","SpiderMan: No Way Home","Captain America: Civil War","SpiderMan: Homecoming"],
     answer: "Captain America: Civil War"
   },
 
@@ -29,7 +29,7 @@ var questions = [
     answer: "Hela"
   },
   
-  { title: " Who made special apperance in "Spider Man:HomeComing"?"
+  { title: " Who made special apperance in 'Spider Man:HomeComing'?",
    choice:["Chris Evans", "Antony Mackie", "Robert Downey Jr", "Tom Hardy"],
    answer: "Robert Downey Jr"
 }
